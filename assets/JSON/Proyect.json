@@ -1,0 +1,49 @@
+{
+    "proyecto": [
+        {
+            "titulo": "Angular",
+            "url": "https://practica-componentes-servicios.web.app/",
+            "descripcion": "Es una aplicacion creada en Angular que lo que realiza es consumir una API comercial y la agrega al carrito de compras.",
+            "descripcionEN": "It is an application created in Angular that what it does is consume a commercial API and add it to the shopping cart.",
+            "imagen2": "https://i.postimg.cc/Y0r79gsJ/Captura-de-pantalla-20230118-110913.png",
+            "imagen": "https://i.postimg.cc/Y0r79gsJ/Captura-de-pantalla-20230118-110913.png",
+            "lenguaje": "https://i.postimg.cc/hvVnLNh8/angular.webp"
+        },
+        {
+            "titulo": "Teachable Machine",
+            "imagen2": "https://i.postimg.cc/hPMYgNg4/images.jpg",
+            "imagen": "https://i.postimg.cc/hPMYgNg4/images.jpg",
+            "descripcion": "Proyecto de reconocimiento facial, el cual permitia identificar si tenias puesta la mascarilla o no, esta realizado Teachable Machine.",
+            "descripcionEN": "Facial recognition project, which made it possible to identify whether you had a mask on or not, is carried out by Teachable Machine.",
+            "url": "https://dgonzalez15.github.io/mascarilla/",
+            "lenguaje": "https://i.postimg.cc/YqpBvHvc/teachable-machine-logo.png"
+        },
+        {
+            "titulo": "Teachable Machine",
+            "imagen2": "https://i.postimg.cc/GhWn6ZjB/Painted-Flowers-Twitter-Header-2.png",
+            "imagen": "https://i.postimg.cc/GhWn6ZjB/Painted-Flowers-Twitter-Header-2.png",
+            "descripcion": "Proyecto realizado para la Detección de sonrisa o de asombro ante alguna situación y esta realizada en Teachable Marchine.",
+            "descripcionEN": "Project carried out for the Detection of smiles or amazement in a situation and it is carried out in Teachable Marchine.",
+            "url": "https://dgonzalez15.github.io/proyectVisionC-Deteccion_Sonrisa-Sorprendido/",
+            "lenguaje": "https://i.postimg.cc/YqpBvHvc/teachable-machine-logo.png"
+        },
+        {
+            "titulo": "PaisesApp",
+            "imagen2": "https://i.postimg.cc/Dy1k1xq1/desktop1.png",
+            "imagen": "https://i.postimg.cc/Dy1k1xq1/desktop1.png",
+            "descripcion": "App de paises el cual realiza un filtrado de País por medio de los continentes, provincias, etc. Cada país muestra su bandera, recalcar que esta realizado en Angular.",
+            "descripcionEN": "Country App which performs a Country filter by means of continents, provinces, etc. Each country shows its flag, emphasize that it is made in Angular.",
+            "url": "https://github.com/dgonzalez15/AngularPais.git",
+            "lenguaje": "https://i.postimg.cc/hvVnLNh8/angular.webp"
+        },
+        {
+            "titulo": "Arból AVL",
+            "imagen2": "https://i.postimg.cc/VL9nrbkD/AVL-2.png",
+            "imagen": "https://i.postimg.cc/VL9nrbkD/AVL-2.png",
+            "descripcion": "Proyecto realizado en Java el cual realiza un arból equilibrado que mantiene todas las operaciones que poseen éstos.",
+            "descripcionEN": "Project made in Java which makes a balanced tree that maintains all the operations that they have.",
+            "url": "https://github.com/dgonzalez15/arbolAvl",
+            "lenguaje": "https://i.postimg.cc/CxynfQ4j/Java-logo.png"
+        }
+    ]
+}

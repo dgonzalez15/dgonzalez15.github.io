@@ -1,0 +1,68 @@
+{
+    "herramientas": [{
+            "nombre": ".NET",
+            "imagen": "https://i.postimg.cc/ZYrHKM85/net.webp",
+            "estado": 2
+        },
+        {
+            "nombre": "C#",
+            "imagen": "https://i.postimg.cc/s27Q9tDB/CSharp.webp",
+            "estado": 2
+        },
+        {
+            "nombre": "Github",
+            "imagen": "https://i.postimg.cc/FszYnfHX/GitHub.webp",
+            "estado": 2
+        },
+        {
+            "nombre": "Angular",
+            "imagen": "https://i.postimg.cc/hvVnLNh8/angular.webp",
+            "estado": 2
+        },
+        {
+            "nombre": "SQL Server",
+            "imagen": "https://i.postimg.cc/tgLxPF0z/SQLServer.webp",
+            "estado": 2
+        },
+        {
+            "nombre": "Visual Studio",
+            "imagen": "https://i.postimg.cc/qqgHT6R9/Visual-Studio.webp",
+            "estado": 2
+        },
+        {
+            "nombre": "Visual Studio Code",
+            "imagen": "https://i.postimg.cc/nLcJkWxF/Visual-Studio-Code.webp",
+            "estado": 2
+        },
+        {
+            "nombre": "PL/SQL",
+            "imagen": "https://i.postimg.cc/GpwPdpNn/pl-sql.png",
+            "estado": 0
+        },
+        {
+            "nombre": "Java",
+            "imagen": "https://i.postimg.cc/CxynfQ4j/Java-logo.png",
+            "estado": 0
+        },
+        {
+            "nombre": "Vue JS",
+            "imagen": "https://i.postimg.cc/L8hQnhNq/vue.png",
+            "estado": 2
+        },
+        {
+            "nombre": "Laravel",
+            "imagen": "https://i.postimg.cc/vTNHMc0r/laravel.jpg",
+            "estado": 0
+        },
+        {
+            "nombre": "Postman",
+            "imagen": "https://i.postimg.cc/WbkbFxNx/Postman.webp",
+            "estado": 2
+        },
+        {
+            "nombre": "PostgreSQL",
+            "imagen": "https://i.postimg.cc/d046qFKs/logo-Postgre-SQL.png",
+            "estado": 0
+        }
+    ]
+}

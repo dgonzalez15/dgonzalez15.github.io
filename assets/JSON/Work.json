@@ -1,0 +1,47 @@
+{
+    "work": [
+        {
+            "titulo": "Claro",
+            "imagen": "https://i.postimg.cc/g0d352rS/i606384.webp",
+            "descripcion": "Asistente Atención al cliente",
+            "descripcionEN":"Customer Service Assistant",
+            "fechaInicio": "2022-06-20",
+            "fechaFin": "2022-08-20"
+        },
+        {
+            "titulo": "OWN",
+            "imagen": "https://i.postimg.cc/wTsZV0Cq/own.jpg",
+            "descripcion": "Prácticas Técnicas",
+            "descripcionEN":"Technical Practices",
+            "fechaInicio": "2022-06-20",
+            "fechaFin": "2022-08-20"
+        },
+        {
+            "titulo": "Brinatel",
+            "imagen": "https://i.postimg.cc/7ZRf3QDH/1421b3116253583-Y3-Jvc-Cwz-ODM1-LDMw-MDAs-ODUs-MA.jpg",
+            "descripcion": "Analista de Fibra Optica",
+            "descripcionEN":"Fiber Optic Analyst",
+            "url": "https://brinatel.com/contenido/",
+            "fechaInicio": "2022-08-01",
+            "fechaFin": "2023-02-01"
+        },
+        {
+            "titulo": "Plastigomez S.A",
+            "imagen": "https://i.postimg.cc/x8LCn0bq/maxresdefault.jpg",
+            "descripcion": "Asistente de Sistemas",
+            "descripcionEN":"System Assistant",
+            "url": "https://plastigomez.com/page/homepage",
+            "fechaInicio": "2021-12-08",
+            "fechaFin": "2022-02-05"
+        },
+        {
+            "titulo": "Santa Priscila",
+            "imagen": "https://i.postimg.cc/t4QTSnwP/logo.jpg",
+            "descripcion": "Desarrollador de Software",
+            "descripcionEN":"Software developer",
+            "url": "https://www.santa-priscila-admin.com/",
+            "fechaInicio": "2022-08-01",
+            "fechaFin": "2023-02-01"
+        }
+    ]
+}

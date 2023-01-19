@@ -1,0 +1,27 @@
+{
+    "aprendiendo": [{
+            "titulo": "Certificación NSE 1",
+            "imagen": "https://i.postimg.cc/BvRH2RVs/NSE-1-Certification-page-0001.jpg"
+        },
+        {
+            "titulo": "Certificación NSE 2",
+            "imagen": "https://i.postimg.cc/Y9f0jVcd/NSE-2-Certification-page-0001.jpg"
+        },
+        {
+            "titulo": "Conceptos de Programación",
+            "imagen": "https://i.postimg.cc/sgFJYCFm/74f88670-f5bd-46bf-a48b-0aadbd48d09d.png"
+        },
+        {
+            "titulo": "Fundamentos de JavaScript",
+            "imagen": "https://i.postimg.cc/GmxbFDgp/UC-d402f27f-995a-4e20-bfbf-5a5e5a6f612d.jpg"
+        },
+        {
+            "titulo": "Base de Datos PostgreSQL Server",
+            "imagen": "https://i.postimg.cc/MH7FC7QM/UC-b591619b-c0cc-4f2a-ab14-7338df62808d.jpg"
+        },
+        {
+            "titulo": "CCNA Cybersecurity Operations",
+            "imagen": "https://i.postimg.cc/YCgdwXHX/Diego-Patricio-Gonz-lez-Caldero-CYBEROPS-UPS-P55-certificate-page-0001.jpg"
+        }
+    ]
+}
